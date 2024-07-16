@@ -1,2 +1,6 @@
-pip install streamlit
-pip install pandas
+numpy
+pandas
+streamlit
+scikit-learn
+joblib
+Pillow
